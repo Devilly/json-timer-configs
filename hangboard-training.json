@@ -1,64 +1,56 @@
 {
-    "name": "Hangboarding",
-    "specifications": [
-        {
-            "name": "Jugs, hang",
-            "duration": 12,
-            "repetitions": 5,
-            "rest": 120,
-            "restName": "Rest!"
-        },
-        {
-            "type": "recuperate",
-            "name": "Chillax!",
-            "duration": 180,
-            "repetitions": 1
-        },
-        {
-            "name": "Jugs, hang",
-            "duration": 12,
-            "repetitions": 5,
-            "rest": 120,
-            "restName": "Rest!"
-        },
-        {
-            "type": "recuperate",
-            "name": "Chillax!",
-            "duration": 180,
-            "repetitions": 1
-        },
-        {
-            "name": "45mm, hang",
-            "duration": 12,
-            "repetitions": 5,
-            "rest": 120,
-            "restName": "Rest!"
-        },
-        {
-            "type": "recuperate",
-            "name": "Chillax!",
-            "duration": 180,
-            "repetitions": 1
-        },
-        {
-            "name": "Jugs, shrug 10x",
-            "duration": 12,
-            "repetitions": 5,
-            "rest": 120,
-            "restName": "Rest!"
-        },
-        {
-            "type": "recuperate",
-            "name": "Chillax!",
-            "duration": 180,
-            "repetitions": 1
-        },
-        {
-            "name": "Jugs, shrug 10x",
-            "duration": 12,
-            "repetitions": 5,
-            "rest": 120,
-            "restName": "Rest!"
-        }
-    ]
+	"name": "Hangboarding",
+	"specifications": [
+		{
+			"type": "activity",
+			"summary": "Jugs, hang",
+			"duration": 2,
+			"repetitions": 5,
+			"rest": 120
+		},
+		{
+			"type": "recuperate",
+			"duration": 180
+		},
+		{
+			"type": "activity",
+			"summary": "Jugs, hang",
+			"duration": 12,
+			"repetitions": 5,
+			"rest": 120
+		},
+		{
+			"type": "recuperate",
+			"duration": 180
+		},
+		{
+			"type": "activity",
+			"summary": "45mm, hang",
+			"duration": 12,
+			"repetitions": 5,
+			"rest": 120
+		},
+		{
+			"type": "recuperate",
+			"duration": 180
+		},
+		{
+			"type": "activity",
+			"summary": "Jugs, shrug 10x",
+			"duration": 12,
+			"repetitions": 5,
+			"rest": 120
+		},
+		{
+			"type": "recuperate",
+			"duration": 180
+		},
+		{
+			"type": "activity",
+			"summary": "Jugs, shrug 10x",
+			"duration": 12,
+			"repetitions": 5,
+			"rest": 120
+		}
+	]
 }
